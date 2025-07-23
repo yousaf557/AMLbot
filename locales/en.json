@@ -1,0 +1,104 @@
+{
+  "title": "AMLBot - Comprehensive AML Compliance Solutions for Crypto",
+  "description": "AMLBot provides advanced AML compliance solutions for crypto businesses. Use our AML bot for thorough AML checks and ensure compliance with the latest regulations.",
+  "header": {
+    "products": "Products",
+    "pricing": "Pricing",
+    "analysis": "Analysis",
+    "faq": "FAQ",
+    "blog": "Blog",
+    "about": "About Us",
+    "login": "Login"
+  },
+  "hero": {
+    "updateBadge": "Big Update",
+    "title": "Three New Plans for the Perfect Fit",
+    "plans": {
+      "lite": {
+        "title": "Lite",
+        "description": "Simple checks for basic needs"
+      },
+      "pro": {
+        "title": "Pro",
+        "description": "Advanced checks with medium-level detail"
+      },
+      "proPlus": {
+        "title": "Pro+",
+        "description": "Full investigation tools with maximum data"
+      }
+    },
+    "cta": "Check Wallet Now"
+  },
+  "trustedBy": "Trusted by",
+  "clients": "Our 300+ clients and partners",
+  "metrics": {
+    "riskyFunds": "+$100 000 000",
+    "riskyFundsDesc": "Amount of the risky funds detected",
+    "complianceDesc": "Compliance departments that accept our AML procedures",
+    "providersChecked": "60,000+",
+    "providersCheckedDesc": "Service providers checked"
+  },
+  "initiatives": {
+    "title": "Our initiatives",
+    "moreBlog": "More in our blog"
+  },
+  "services": {
+    "title": "AMLBot's Services",
+    "subtitle": "We provide full pack of options for safe work with crypto",
+    "amlScreening": {
+      "title": "AML/KYT screening",
+      "description": "API solutions that empower AML compliance tools within your current system. All transactions are automatically verified to comply with AML and FATF requirements and reduce your business risk exposure."
+    },
+    "kyc": {
+      "title": "KYC for business",
+      "description": "The streamlined and automated verification process empowers your business to swiftly onboard customers, reducing manual effort and mitigating identity fraud and illicit activity risks."
+    },
+    "amlProcedures": {
+      "title": "AML/KYC procedures",
+      "description": "Launch your crypto venture with ease, simplicity, and confidence through our streamlined AML and KYC consulting, ensuring smooth compliance and effective risk management right from the beginning."
+    },
+    "corporateAccounts": {
+      "title": "Corporate accounts at CEX/EMI",
+      "description": "Streamline corporate account opening on CEX EMI with our expert assistance, ensuring your focus remains on business growth in the crypto industry."
+    },
+    "blockchainInvestigations": {
+      "title": "Blockchain investigations",
+      "description": "Recover stolen cryptocurrencies with AMLBot's expert blockchain investigations, swiftly identifying culprits and tracing funds for effective recovery."
+    },
+    "learnMore": "Learn more →"
+  },
+  "isoCertified": {
+    "title": "ISO certified",
+    "description": "We continually improve our security measures to uphold trust and safety. Learn more about our certifications",
+    "learnMore": "Learn more →"
+  },
+  "faq": {
+    "title": "FAQs",
+    "questions": [
+      {
+        "question": "What is AMLBot?",
+        "answer": "AMLBot is a cryptocurrency compliance tool that helps users check if a Bitcoin (BTC), Ethereum (ETH), or other cryptocurrency address is associated with illicit activities such as money laundering, scams, or darknet markets."
+      },
+      {
+        "question": "How does AMLBot work?",
+        "answer": "AMLBot scans blockchain transactions and cross-references them against known databases of suspicious addresses, providing a risk assessment for any given wallet."
+      }
+    ]
+  },
+  "footer": {
+    "companyInfo": "SAFELEMENT LIMITED,<br>OFFICE 1111, SUITE 1102, LEE GARDEN ONE,<br>33 HYSAN AVERUE, CAUSEWAY BAY,<br>HONG KONG",
+    "personalUse": "FOR PERSONAL USE",
+    "company": "COMPANY",
+    "socialNetworks": "SOCIAL NETWORKS",
+    "copyright": "© 2025 AMLBot",
+    "links": {
+      "support": "Support",
+      "userAgreement": "User Agreement",
+      "privacyPolicy": "Privacy Policy"
+    }
+  },
+  "chat": {
+    "title": "Hi! How can I assist you?",
+    "description": "Our support team is here to help"
+  }
+}

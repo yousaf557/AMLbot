@@ -1,0 +1,104 @@
+{
+  "title": "AMLBot - Solutions complètes de conformité AML pour la crypto",
+  "description": "AMLBot propose des solutions avancées de conformité AML pour les entreprises crypto. Utilisez notre bot AML pour des vérifications approfondies et une conformité aux réglementations.",
+  "header": {
+    "products": "Produits",
+    "pricing": "Tarifs",
+    "analysis": "Analyse",
+    "faq": "FAQ",
+    "blog": "Blog",
+    "about": "À propos",
+    "login": "Connexion"
+  },
+  "hero": {
+    "updateBadge": "Mise à jour majeure",
+    "title": "Trois nouveaux plans pour une solution parfaite",
+    "plans": {
+      "lite": {
+        "title": "Lite",
+        "description": "Vérifications simples pour besoins basiques"
+      },
+      "pro": {
+        "title": "Pro",
+        "description": "Vérifications avancées avec détails moyens"
+      },
+      "proPlus": {
+        "title": "Pro+",
+        "description": "Outils d'investigation complets avec données maximales"
+      }
+    },
+    "cta": "Vérifier le portefeuille"
+  },
+  "trustedBy": "Recommandé par",
+  "clients": "Nos 300+ clients et partenaires",
+  "metrics": {
+    "riskyFunds": "+$100 000 000",
+    "riskyFundsDesc": "Montant des fonds à risque détectés",
+    "complianceDesc": "Départements de conformité acceptant nos procédures AML",
+    "providersChecked": "60,000+",
+    "providersCheckedDesc": "Fournisseurs de services vérifiés"
+  },
+  "initiatives": {
+    "title": "Nos initiatives",
+    "moreBlog": "Plus sur notre blog"
+  },
+  "services": {
+    "title": "Services AMLBot",
+    "subtitle": "Nous offrons des solutions complètes pour travailler en sécurité avec la crypto",
+    "amlScreening": {
+      "title": "Vérification AML/KYT",
+      "description": "Solutions API pour intégrer des outils AML dans votre système. Transactions vérifiées automatiquement selon les normes AML et FATF."
+    },
+    "kyc": {
+      "title": "KYC pour entreprises",
+      "description": "Processus de vérification automatisé pour un onboarding rapide et sécurisé."
+    },
+    "amlProcedures": {
+      "title": "Procédures AML/KYC",
+      "description": "Lancez votre projet crypto avec notre consulting AML/KYC simplifié."
+    },
+    "corporateAccounts": {
+      "title": "Comptes corporatifs sur CEX/EMI",
+      "description": "Aide à l'ouverture de comptes corporatifs sur les exchanges."
+    },
+    "blockchainInvestigations": {
+      "title": "Enquêtes blockchain",
+      "description": "Récupération de crypto volées grâce à nos enquêtes expertes."
+    },
+    "learnMore": "En savoir plus →"
+  },
+  "isoCertified": {
+    "title": "Certifié ISO",
+    "description": "Nous améliorons continuellement la sécurité pour garantir la confiance. En savoir plus sur nos certifications",
+    "learnMore": "En savoir plus →"
+  },
+  "faq": {
+    "title": "Questions fréquentes",
+    "questions": [
+      {
+        "question": "Qu'est-ce qu'AMLBot?",
+        "answer": "AMLBot est un outil de conformité pour vérifier les adresses crypto liées à des activités illicites."
+      },
+      {
+        "question": "Comment fonctionne AMLBot?",
+        "answer": "AMLBot scanne les transactions et les compare à des bases de données d'adresses suspectes."
+      }
+    ]
+  },
+  "footer": {
+    "companyInfo": "SAFELEMENT LIMITED,<br>BUREAU 1111, SUITE 1102, LEE GARDEN ONE,<br>33 HYSAN AVERUE, CAUSEWAY BAY,<br>HONG KONG",
+    "personalUse": "USAGE PERSONNEL",
+    "company": "ENTREPRISE",
+    "socialNetworks": "RÉSEAUX SOCIAUX",
+    "copyright": "© 2025 AMLBot",
+    "links": {
+      "support": "Support",
+      "userAgreement": "Accord utilisateur",
+      "privacyPolicy": "Politique de confidentialité"
+    }
+  },
+  "chat": {
+    "title": "Bonjour ! Comment puis-je vous aider ?",
+    "description": "Notre équipe support est là pour vous"
+  }
+}
